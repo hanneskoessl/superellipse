@@ -1,3 +1,4 @@
+!  LU decomposition form J-P Moreau (http://jean-pierre.moreau.pagesperso-orange.fr/Fortran/lu_f90.txt)
 !  ***************************************************************
 !  * Given an N x N matrix A, this routine replaces it by the LU *
 !  * decomposition of a rowwise permutation of itself. A and N   *
